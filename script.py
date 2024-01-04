@@ -1,8 +1,10 @@
+from telethon.sessions import StringSession
 import nest_asyncio
 nest_asyncio.apply()
 import asyncio
 import random
 from telethon import TelegramClient, events
+from telethon.sessions import StringSession
 
 api_id = '21124978'
 api_hash = '63f41b60df295e52b2a967e5f9c02977'
@@ -19,6 +21,11 @@ client = TelegramClient(session, api_id, api_hash)
 with open(characters_file, 'r') as file:
     naruto_characters = [line.strip() for line in file]
 
+async def send_jumble_command():
+    while True:
+        await asyncio.sleep(4)  # Send the command every 4 seconds
+        await client.send_message(bot_username, jumble_command)
+
 @client.on(events.NewMessage(from_users=[bot_username]))
 async def on_message(event):
     if jumble_command in event.raw_text:
@@ -34,27 +41,10 @@ async def on_message(event):
         # Sending the correct name back to the bot
         await client.send_message(bot_username, f"Correct word: {correct_name}")
 
-
-def jumble_solver(jumbled_name):
-    # Rearrange the characters of the jumbled word
-    shuffled_name = ''.join(random.sample(jumbled_name, len(jumbled_name)))
-    return shuffled_name
-
-
-def find_correct_name(rearranged_name):
-    # Find the correct character name in the list
-    for name in naruto_characters:
-        if rearranged_name.lower() == name.lower():
-            return name
-    return "Name not found"  # Replace with your own handling for not finding the name
-
-
 async def main():
     await client.start()
-    await client.send_message(bot_username, jumble_command)  # Trigger the jumble command
+    asyncio.ensure_future(send_jumble_command())
     await client.run_until_disconnected()
-
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
-  
