@@ -54,7 +54,7 @@ async def on_message(event):
         correct_name = find_correct_name(rearranged_name)
 
         # Sending the correct name back to the bot
-        await client.send_message(bot_username, f"Correct word: {correct_name}")
+        await client.send_message(bot_username, f"{correct_name}")
 
 async def main():
     await client.start()
