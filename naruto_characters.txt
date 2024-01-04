@@ -1,6 +1,6 @@
 Abiru
 Ada
-Agara
+mabui
 Agari
 Agari 
 Ageha
@@ -78,7 +78,6 @@ Baji
 Baki
 Baku
 Baku 
-Bakuto
 Bamboo 
 Bando
 Bandō
@@ -361,7 +360,6 @@ Hinata
 Hinata
 Hinoe
 Hinoki
-Hinoko
 Hinoto
 Hippo 
 Hiruga
@@ -578,7 +576,7 @@ Kiki
 Kiku
 Kikuchiyo
 Kikunojo
-Killer B
+Killer bee
 Kimimaro
 Kin
 Kin 
@@ -831,6 +829,8 @@ Nue
 Nurari
 Nurui
 Obito 
+ohnoki
+wasabi
 Obito
 Oboro
 Ohagi
