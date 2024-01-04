@@ -22,9 +22,23 @@ client = TelegramClient(session, api_id, api_hash)
 with open(characters_file, 'r') as file:
     naruto_characters = [line.strip() for line in file]
 
+def jumble_solver(jumbled_name):
+    # Rearrange the characters of the jumbled word
+    shuffled_name = ''.join(random.sample(jumbled_name, len(jumbled_name)))
+    return shuffled_name
+
+def find_correct_name(rearranged_name):
+    # Try all possible matchups of the rearranged name
+    possible_matches = [name for name in naruto_characters if sorted(name.lower()) == sorted(rearranged_name.lower())]
+    
+    if possible_matches:
+        return possible_matches[0]
+    else:
+        return "Name not found"  # Replace with your own handling for not finding the name
+
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(9)  # Send the command every 9 seconds
+        await asyncio.sleep(10)  # Send the command every 4 seconds
         await client.send_message(bot_username, jumble_command)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
@@ -49,3 +63,4 @@ async def main():
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
+    
