@@ -5,6 +5,7 @@ import asyncio
 import random
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
+import unidecode
 
 api_id = '21124978'
 api_hash = '63f41b60df295e52b2a967e5f9c02977'
