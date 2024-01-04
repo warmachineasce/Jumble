@@ -38,7 +38,7 @@ def find_correct_name(rearranged_name):
 
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(10)  # Send the command every 4 seconds
+        await asyncio.sleep(4)  # Send the command every 4 seconds
         await client.send_message(bot_username, jumble_command)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
