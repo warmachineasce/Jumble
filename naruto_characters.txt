@@ -1,64 +1,60 @@
-A (First Raikage)
-A (Fourth Raikage)
-A (Second Raikage)
-A (Third Raikage)
 Abiru
 Ada
 Agara
 Agari
-Agari Kaisen
+Agari 
 Ageha
-Agira Ryūdōin
+Agira 
 Ahiko
-Aho Bird
+Aho 
 Aino
 Ajisai
 Akaboshi
 Akahoshi
 Akamaru
 Akane
-Akane (Kunoichi)
-Akane’s Father
+Akane 
+Akane
 Akari
-Akari Tatsushiro
+Akari 
 Akatsuchi
-Akebi Sanzu
+Akebi 
 Akemaru
 Akino
 Akio
-Akita Inuzuka
+Akita 
 Akkun
 Amachi
-Amado Sanzu
+Amado 
 Amagi
-Amagi Izuno
+Amagi 
 Amai
 Amaru
 Amayo
 Ameno
 Ameyuki
-Ameyuri Ringo
+Ameyuri 
 Ami
 Amino
 Amuda
 Anaguma
 Anato
-Anbu Commander
+Anbu 
 Aniki
-Aniki (missing-nin)
-Anko Mitarashi
-Ankorodō Shop Owner
+Aniki 
+Anko 
+Ankorodo
 Ao
-Aoba Yamashiro
+Aoba 
 Aoda
-Aoi (game)
-Aoi Rokushō
+Aoi 
+Aoi 
 Aoneko
 Aosa
 Arai
 Arashi
-Arashi Umeya
-Araumi Funato
+Arashi 
+Araumi 
 Araya
 Armadiko
 Asaka
@@ -66,63 +62,53 @@ Asaki
 Asami
 Ashimaru
 Ashina
-Ashina Uzumaki
+Ashina 
 Ashitaba
-Asuma Sarutobi
-Asura Path (character)
-Asura Ōtsutsuki
+Asuma 
+Asura 
+Asura 
 Atsui
-Awaji Unabara
+Awaji 
 Ayame
 Azami
-Azure Fang
-B
+Azure 
 Babu
 Baiu
 Baji
 Baki
 Baku
-Baku (Anbu)
+Baku 
 Bakuto
-Bamboo Minister
+Bamboo 
 Bando
 Bandō
 Banna
 Bansai
-Baru Uchiha
-Batora Kuromori
+Baru 
+Batora 
 Batta
 Beekeeper
-Bekkō
+Bekko
 Benga
 Benten
-Bird-Masked Anbu Member
 Bisuke
-Biwako Sarutobi
-Black Shadow
+Biwako 
 Black Zetsu
 Blue B
-Boar-Masked Anbu Member
 Boro
-Boruto Uzumaki
-Boxing Kangaroos
-Breeze Dancer
+Boruto 
 Bug
 Bull
 Buna
 Bunpuku
-Buntan Kurosuki
+Buntan 
 Bunzō
 Burami
-Buriko Nekoka
-Butsuma Senju
+Buriko 
+Butsuma 
 Byakuren
-C
-C
-Calm Seas Daimyō
-Captain of the Ghost Ship
 Chamaru
-Chamū
+Chamu
 Chen
 Chibi
 Chichiatsu
@@ -131,53 +117,51 @@ Chino
 Chiriku
 Chishima
 Chiyo
-Chiyo (princess)
+Chiyo 
 Chiyomatsu
-Chōbee Akimichi
-Chōchō Akimichi
-Chōhan
-Chōji Akimichi
-Chōji’s Mother
-Chōjūrō
-Chōmei
-Chōseki
-Chōza Akimichi
-Chūji
-Chūkaku
-Chūkichi
-Chūshin
-Claw Daimyō
+Chobee 
+Chocho
+Chohan
+Choji
+Chojuro
+Chomei
+Choseki
+Choza 
+Chuji
+Chukaku
+Chukichi
+Chushin
+Claw 
+Daimyo
 Code
-Conch King
+Conch 
 Condor
-Crimson Fist
-Curse Jutsu Master
-Cursed Warrior
-D
+Crimson 
+Curse
+Cursed 
 Daemon
-Daen Nara
+Daen 
 Daibutsu
 Daichi
-Daikoku Funeno
+Daikoku 
 Daimaru
-Daizen Matsushige
+Daizen
 Dajimu
-Dan Katō
-Dango Mitsuki
-Dangō
-Danjō
-Danzō Shimura
-Daore Dōtonbori
+Dan 
+Dango 
+Dango
+Danjo
+Danzo
+Daore
 Darui
-Daruma Izuno
+Daruma 
 Datsuji
 Deepa
 Deidara
 Delta
-Demonic Statue of the Outer Path
 Dengaku
 Denka
-Denki Kaminarimon
+Denki 
 Disonasu
 Dodai
 Dokan
@@ -185,84 +169,69 @@ Doki
 Dokku
 Don
 Doragu
-Doseki Ganryū
-Dosu Kinuta
-Dotō Kazahana
-Dread Lion
-Dōshin
-Dōshu Goetsu
-Dōtō Akimichi
-E
-Eagle-Masked Anbu Member
-Earth Daimyō
-Earth Prison Golem
+Doseki 
+Dosu 
+Doto
+Dread 
+Doshu 
+Doto
+Earth 
+Daimyo
 Ebisu
-Ebizō
+Ebizo
 Edashi
-Ehō Norimaki
-Eiki Fūma
-Emi
+Eho
+Eiki 
 Emina
 Emiru
-En no Gyōja
-En Oyashiro
-Enchū Nara
-Enko Onikuma
+En
+Enchu
+Enko 
 Enra
-Ensui Nara
-Enzo Tenrō
-Ereki Kaminarimon
-Erimaki Sharo
-Etoro Konjiki
-Evil Minister of the Tea Daimyō
-F
-Fang Daimyō
+Ensui 
+Enzo 
+Ereki 
+Erimaki 
+Etoro 
+Fang 
 Faz
-Fire Daimyō (Part I-II)
-First Animal Path (character)
-First Hoshikage
-Former Leader of Nadeshiko Village
-Fox-Masked Anbu Member
-Frost Daimyō
-Fubuki Kakuyoku
-Fudō
+Frost 
+Fubuki 
+Fudo
 Fuen
 Fugai
-Fugaku Uchiha
+Fugaku 
 Fugi
-Fuguki Suikazan
-Fugō
+Fuguki 
+Fugo
 Fukasaku
 Fuki
-Fuki (Land of Sound)
 Fuku
 Fukuemon
 Fukurokumaru
-Fukusuke Hikyakuya
+Fukusuke
 Fukuyokana
 Funamushi
 Funari
-Funato Soldier Leader
+Funato 
 Fundaru
 Furofuki
 Furui
-Fusō
+Fuso
 Futaba
 Futami
 Futsu
-Fuyō
-Fū
-Fū Yamanaka
-Fūjin
-Fūka
-Fūta Kagetsu
-G
+Fuyo
+Fu
+Fujin
+Fuka
+Futa
 Gaara
-Gaku Inuzuka
-Gama
+Gaku
+Gama-chan
 Gamabunta
 Gamaden
-Gamagorō
+Gamagoro
 Gamahiro
 Gamaken
 Gamakichi
@@ -272,86 +241,67 @@ Gamariki
 Gamatama
 Gamatatsu
 Gameru
-Gandō
+Gando
 Ganno
-Ganryū
+Ganryu
 Gantetsu
-Gantetsu (Iwagakure)
+Gantetsu
 Garaga
-Garakuta Gang Leader
-Garashi Tōno
+Garakuta
+Garashi
 Gari
 Garuda
-Garyō
-Garō
+Garyo
+Garo
 Gasuka
 Gatai
 Gataro
 Gatekeeper
 Gatsu
-Gatō
+Gato
 Gazeru
 Gekkō
 Gekomatsu
-Gen Katsugi
-Gen’yūmaru
+Gen
+Gen
 Genbu
-Genbu (minister)
-Gengetsu Hōzuki
+Genbu
+Gengetsu 
 Gengo
 Genie
-Genji
-Genma Shiranui
+Genma 
 Genmai
 Gennai
-Gennō
-Gennō’s Son
-Genshō Ryūdōin
-Gensui Amagiri
-Genzō
+Genno
+Gensho
+Gensui 
+Genzo
 Gerotora
-Giant Anteater
-Giant Bee
-Giant Centipede
-Giant Clam
-Giant Corpse Crab
-Giant Crustacean
-Giant Drill-Beaked Bird
-Giant Eagle
-Giant Insect
-Giant Marlin
-Giant Multi-Headed Dog
-Giant Ox
-Giant Panda
-Giant Rhino
-Giant Snake-Tailed Chameleon
-Giant Squid
 Giichi
 Ginji
 Ginkaku
 Gitai
 Goji
-Gojō
+Gojo
 Gokai
 Gonbee
-Gongorō Kamakura
+Gongoro
 Goshiki
 Gosunkugi
 Gotta
 Gozu
-Gozu (Root)
+Gozu 
 Guren
-Guren (prisoner)
+Guren 
 Guruko
-Gyokurō Chabashira
-Gyūki
-Gōshō
-Gōza
-Gōzu
-H
+Gyokuro
+Gyuki
+Gosho
+Goza
+Gozu
 Hachidai
 Hagiri
-Hagoromo Ōtsutsuki
+Hagoromo 
 Haguruma
 Haido
 Haie
@@ -359,170 +309,154 @@ Hainosuke
 Hakkaku
 Hako Kuroi
 Haku
-Haku’s Father
-Haku’s Mother
-Hakubi Shin
-Hakuhyō
+Hakubi 
+Hakuhyo
 Hakui
-Hakui (medic)
+Hakui 
 Hakuto
-Hamaki Mimura
-Hamura Ōtsutsuki
-Hamura Ōtsutsuki Golem
+Hamaki
+Hamura 
+Hamura 
 Han
-Hana (student)
-Hana Inuzuka
-Hana Kaka
-Hanabi Hyūga
+Hana 
+Hanabi 
 Hanare
 Hanuma
 Hanzaki
-Hanzō
+Hanzo
 Haori
-Harika Aburame
+Harika 
 Harine
 Haruna
 Harusame
-Hashirama Senju
-Hassaku Onomichi
-Hayama Shirakumo
+Hashirama 
+Hassaku 
+Hayama 
 Hayase
-Hayate Gekkō
-Hazuki Uchiha
-Head Ninja of Kumogakure
-Headman’s Granddaughter
+Hayate 
+Hazuki 
 Hebihime
 Hebiichigo
 Heiji
 Heki
-Hiashi Hyūga
+Hiashi 
 Hibachi
 Hibari
-Hibari Kamakura
+Hibari 
 Hibiki
 Hidan
 Hidari
 Hidero
-Hikaku Uchiha
-H
+Hikaku 
 Hikaru
-Hikaru Tsuki
+Hikaru 
 Himatsu
-Himawari Uzumaki
+Himawari 
 Himeno
 Himeyuri
-Himuka Suzukaze
+Himuka 
 Himushi
 Hina
-Hinata and Hanabi’s Mother
-Hinata Hyūga
+Hinata 
+Hinata
 Hinoe
 Hinoki
 Hinoko
 Hinoto
-Hippo Boss
+Hippo 
 Hiruga
-Hiruko (missing-nin)
-Hiruko (shinobi)
-Hiruzen Sarutobi
+Hiruko 
+Hiruko 
+Hiruzen 
 Hisame
 Hisen
 Hishaku
 Hitode
-Hizashi Hyūga
-Hoheto Hyūga
+Hizashi 
+Hoheto 
 Hohozuki
 Hokushin
 Hokuto
-Homura Mitokado
+Homura 
 Honoka
-Hot Water Daimyō
 Hotaru
 Hotarubi
-Human Path (character)
-Hyō
-Hyōgo
-Hyōi Yorishiro
-Hyūga Elder
-Hāto
-Hōichi
-Hōki (Takigakure)
-Hōki (Takumi)
-Hōki (Watari)
-Hōki Taketori
-Hōsei
-Hōshō
-Hōzuki Castle’s Ninken
-I
+Hyo
+Hyogo
+Hyoi 
+Hyuga
+Hato
+Hoichi
+Hori
+Hosei
+Hosho
+Hozuki 
 Ibara
-Ibiki Morino
+Ibiki 
 Ibuse
 Ibushi
 Ichi
 Ichigen
 Ichikishimahime
-Ichirōta Oniyuzu
-Idate Morino
+Ichirota
+Idate 
 Iggy
-Ikada Funato
+Ikada 
 Ikanago
-Ikkaku Umino
-Ikkyū Madoka
-Inabi Uchiha
+Ikkaku 
+Ikkyu
+Inabi 
 Inagi
 Inaho
 Inari
-Indra Ōtsutsuki
-Ino Yamanaka
-Ino’s Mother
-Inoichi Yamanaka
-Inojin Yamanaka
+Indra 
+Ino 
+Ino
+Inoichi 
+Inojin 
 Inomatsu
 Inori
-Inori’s Brother
+Inori
 Iori
-Iroha (Genin)
-Iroha Hyūga
-Iruka Umino
+Iroha 
+Iroha 
+Iruka 
 Isago
-Isago (anime)
-Isari Funato
+Isago 
+Isari 
 Isaribi
 Ise
 Ishidate
 Ishikawa
 Isobu
 Isono
-Isshiki Ōtsutsuki
-Itachi Uchiha
-Itachi’s Crow
-Itama Senju
+Isshiki 
+Itachi 
+Itachi
+Itama 
 Ittan
 Ittetsu
-Iwa Doctor
-Iwa Kunoichi
-Iwabee Yuino
+Iwa 
+Iwa 
+Iwabee 
 Iwaji
 Iwakyō
-Iwana (citizen)
-Iwana (Otogakure)
-Iwana Akame
-Iwashi Tatami
+Iwana 
+Iwana 
+Iwana 
+Iwashi 
 Iwato
-Iwazō
+Iwazo
 Iyashi
-Izumi Uchiha
-Izumo Kamizuki
-Izuna Uchiha
-Iō
-Iō (Bamboo Village)
-Iō (medical-nin)
-J
+Izumi 
+Izumo 
+Izuna 
+Io
 Jaggy
 Jako
-Jakō Ryūdōin
-Janmāru-Tataru
-Jantō
+Jako
+Janmaru-Tataru
+Janto
 Jibachi
 Jibiki
 Jiga
@@ -531,59 +465,57 @@ Jigumo
 Jiji
 Jimei
 Jin
-Jin Kaminari
-Jingo Kumano
-Jinin Akebino
-Jinpachi Munashi
+Jin 
+Jingo 
+Jinin 
+Jinpachi 
 Jiraiya
-Jiryū Sendō
-Jirō
-Jirōbō
-Jirōchō Wasabi
+Jiryu
+Jiro
+Jirobo
+Jirocho
 JJ
 Jujumaru
 Junsai
-Jōmae Village Head
-Jōseki
-Jūgo
-Jūzō Biwa
-K
-Kabure Tokisuki
-Kabuto Yakushi
-Kabuto’s Sensei
-Kae Yukiwari
+Jomae
+Joseki
+Jugo
+Juzo
+Kabure 
+Kabuto 
+Kae 
 Kaede
-Kaede Yoshino
-Kagami Uchiha
+Kaede 
+Kagami 
 Kagari
-Kagari (cultist)
-Kage (Anbu)
+Kagari 
+Kage 
 Kageki
-Kagen Uchiha
-Kagerō
-Kagura (game)
-Kagura Karatachi
-Kaguya Clan Patriarch
-Kaguya Ōtsutsuki
+Kagen 
+Kagero
+Kagura
+Kagura 
+Kaguya 
+Kaguya 
 Kahiko
 Kahyō
 Kail
-Kaito Kawanami
+Kaito 
 Kaiza
 Kaji
 Kajika
 Kajiki
 Kajūra
-Kakashi Hatake
-Kakeru Tsuki
+Kakashi 
+Kakeru 
 Kakesu
 Kakkō
 Kakoi
 Kakui
 Kakuzu
-Kakuzu’s Partner
+Kakuzu
 Kakō
-Kamakiri Ikeno
+Kamakiri 
 Kamata
 Kamatari
 Kamikiri
@@ -591,39 +523,39 @@ Kamira
 Kanabun
 Kanchi
 Kandachi
-Kande Inabikari
+Kande 
 Kaneki
-Kankitsu Akitsuki
-Kankurō
+Kankitsu 
+Kankuro
 Kanna
-Kanna (carpenter)
+Kanna 
 Kanoe
 Kanoto
 Kanpu
-Kanpō
-Kanyū
+Kanpo
+Kanyu
 Kaori
 Karai
 Karashi
 Karasuki
 Karenbana
 Karin
-Karin Kagura
-Karin’s Mother
+Karin 
+Karin
 Karui
 Karura
-Karyū
+Karyu
 Kashike
-Kasuga Nara
+Kasuga 
 Kasumi
-Kasumi (Castle Dusk)
+Kasumi
 Katara
-Katasuke Tōno
+Katasuke 
 Katazu
 Katsura
 Katsuyu
 Kawaki
-Kawarama Senju
+Kawarama 
 Kaya
 Kayo
 Kayui
@@ -634,63 +566,61 @@ Kazuma
 Kedama
 Kegon
 Keiri
-Kiba Inuzuka
-Kido Tsumiki
-Kidōmaru
+Kiba 
+Kido 
+Kidomaru
 Kie
 Kigiri
-Kihō
+Kiho
 Kiiro
 Kiji
 Kiki
 Kiku
 Kikuchiyo
-Kikunojō
+Kikunojo
 Killer B
 Kimimaro
-Kin (actor)
-Kin Tsuchi
-Kina Kodon
-King
-King of Hell
+Kin
+Kin 
+Kina 
 Kinkaku
 Kinoto
-Kinshiki Ōtsutsuki
+Kinshiki 
 Kintoki
 Kirara
-Kiri (ninja)
-Kiri (villager)
+Kiri 
+Kiri 
 Kirisaki
 Kirisame
 Kiruru
-Kisame Hoshigaki
-Kiseru Gankubi
-Kisuke Maboroshi
-Kisuke’s Wife
+Kisame 
+Kiseru 
+Kisuke 
+Kisuke
 Kitane
 Kitsuchi
-Kitō
-Kiyoi Yotsuki
-Kiyomu Fukuda
-Kiyoyasu Kagetsu
-Kizashi Haruno
+Kito
+Kiyoi 
+Kiyomu 
+Kiyoyasu 
+Kizashi 
 Kobanza
 Kobuna
-Kobushi Saiki
+Kobushi 
 Kodaka
 Kodama
 Kohada
-Kohan Yamanaka
-Kohari Umino
-Koharu Utatane
-Koji Kashin
-Kokage Yanagikage
+Kohan 
+Kohari 
+Koharu 
+Koji 
+Kokage 
 Kokatsu
 Kokuri
 Kokushi
 Kokuyō
-Kokuyō (puppeteer)
-Kokuō
+Kokuyo
+Kokuo
 Komachi
 Komame
 Komaza
@@ -701,93 +631,88 @@ Komugi
 Komushi
 Kona
 Konan
-Konashi Nerikiri
+Konashi 
 Konenmaru
-Kongō
-Konoha Astronomer
-Konohamaru Sarutobi
+Kongo
+Konoha 
+Konohamaru 
 Kontsuchi
 Korega
 Korobi
-Koshō
+Kosho
 Kosuke
-Kosuke Maruboshi
-Kotetsu Hagane
+Kosuke 
+Kotetsu 
 Kotohime
-Koyuki Kazahana
+Koyuki 
 Kozuchi
 Kuen
 Kujaku
-Kuma Panda
-Kumade Toriichi
+Kuma 
+Kumade 
 Kumadori
-Kumo Reincarnated Shinobi
+Kumo 
 Kunihisa
-Kunijirō
-Kunugi Mokume
-Kura Kageno
+Kunijiro
+Kunugi 
+Kura 
 Kurama
-Kurenai Yūhi
+Kurenai 
 Kurobachi
 Kurobane
-Kuroma Tatsushiro
+Kuroma
 Kuromaru
 Kurotsuchi
 Kurozuka
 Kusabi
-Kushimaru Kuriarare
-Kushina Uzumaki
+Kushimaru 
+Kushina
 Kussaku
 Kusuma
 Kusuna
 Kusune
 Kusushi
-Kuwa Yokohori
+Kuwa 
 Kyodaigumo
-Kyohō Fuefuki
-Kyōya
-Kyūroku Wagarashi
-Kyūsuke
-Kō (Anbu)
-Kō Hyūga
-Kō Kogare
-Kōji
-Kōji (Suna)
-Kōmei
-Kōrogi
-Kōsuke
-Kōsuke (Scientist)
-Kōta
-Kōtarō Fūma
-Kōza Kubisaki
-Kū
-Kūi Dōtonbori
-M
-Mazuma Izuno
-Mebuki Haruno
+Kyoho
+Kyoya
+Kyuroku
+Kyusuke
+Ko
+Koji
+Komei
+Korogi
+Kosuke
+Kosuke 
+Kota
+Kotaro 
+Koza
+Ku
+Kui
+Mazuma 
+Mebuki 
 Mecha-Kurama
 Mecha-Naruto
-Mei Terumī
+Mei
 Meizu
-Menma (anime)
-Menma Namikaze
-Menma Uzumaki
-Menō
-Menō (ninja)
-Messenger Lizard
+Menma
+Menma 
+Menma 
+Meno
+Meno
 Metal Lee
-Metoro Konjiki
+Metoro
 Mezu
-Mezu (missing-nin)
+Mezu 
 Mia
 Mibuna
-Michiru Tsuki
-Michizō Manaka
+Michiru 
+Michizō 
 Michy
 Midare
-Midnight Blade
+Midnight 
 Midori
-Midori (game)
+Midori 
 Mifune
 Migaki
 Might Duy
@@ -795,137 +720,133 @@ Might Guy
 Miina
 Mijin
 Mikazuki
-Mikazuki Amaashi
+Mikazuki 
 Mikoshi
-Mikoto Uchiha
-Mimi Inuzuka
-Minamo Funato
-Minato Namikaze
+Mikoto 
+Mimi 
+Minamo 
+Minato
 Minoichi
 Minoji
-Mirai Sarutobi
+Mirai 
 Miroku
 Miru
-Misumi Tsurugi
+Misumi 
 Misuno
 Mitate
-Mito Uzumaki
+Mito 
 Mitoku
 Mitsuki
 Mitsuo
-Mizore Fuyukuma
+Mizore 
 Mizugoke
 Mizuki
 Mizunoe
 Mizunoto
 Mizura
 Mo
-Moegi Kazamatsuri
+Moegi 
 Moguranmaru
 Mogusa
-Mokume Arai
+Mokume 
 Momiji
-Momiji (Tanzaku)
+Momiji 
 Momo
-Momo (ninneko)
-Momoshiki Ōtsutsuki
+Momo 
+Momoshiki 
 Mondai
 Monga
 Monju
-Monkey King: Enma
-Monzaemon Chikamatsu
+Enma
+Monzaemon 
 Morio
 Moroi
 Motoi
-Mozu Shitakiri
+Mozu 
 Mozuku
-Mozuku (criminal)
-Mozuku (Land of Calm Seas)
+Mozuku 
+Mozuku 
 Mubi
 Mugino
 Mui
 Mujin
 Mujō
 Mukade
-Mukade (movie)
-Mukai Kohinata
+Mukade
+Mukai 
 Muku
-Murakumo Kurama
+Murakumo 
 Murasame
 Musai
-Muta Aburame
+Muta 
 Muyami
-Mōryō
-Mū
-N
-Nadare Rōga
+Moryo
+Mu
+Nadare 
 Nae
 Nagare
 Nagato
 Naho
-Naka Uchiha
-Namida Suzumeno
+Naka 
+Namida 
 Namua
 Nan
 Nanafushi
 Nanara
-Nangō
-Naori Uchiha
-Naraka Path (character)
-Naruto Musasabi
-Naruto Uzumaki
+Nango
+Naori 
+Naraka 
+Naruto 
+Naruto 
 Natori
 Natsu
-Natsu Hyūga
+Natsu 
 Natsuhi
-Nattō Itohiki
+Natto
 Nauma
 Nawaki
 Nazuna
-Neji Hyūga
+Neji 
 Nejiri
 Nekobaa
 Nekomata
 Nemui
-Neon Asakusa
-Neon’s Mother
+Neon 
+Neon
 Nerugui
-Nezumi Kaitō
+Nezumi 
 Ni
-Ni’s Dogs
+Ni
 Nigai
-Nine-Tailed Naruto Clone
 Ningame
 Nishi
-Nishi (sensor)
-Nitora Take
+Nishi 
+Nitora 
 Nobori
 Noji
 Nonota
-Nonō Yakushi
+Nono
 Nowaki
 Nue
 Nurari
 Nurui
-O
-Obito Uchiha
-Obito’s Grandmother
+Obito 
+Obito
 Oboro
 Ohagi
 Okami
 Okisuke
 Oko
-Okyō
+Okyo
 Omoi
 Onbu
 Oppo
 Orochimaru
 Osoi
-Osuka Kamakura
+Osuka 
 Otoha
 Otokaze
 Oyone
-P
 Pakkun
 Pakura
 Penjira
@@ -933,55 +854,52 @@ Pochi
 Ponta
 Poochie
 Potcha
-Preta Path (character)
-Prime Minister
-R
-Rahyō
-Rai Uchiha
-Raidō Namiashi
-Raiga Kurosuki
+Preta 
+Rahyo
+Rai 
+Raido
+Raiga 
 Raijin
 Raimei
 Rainenmaru
 Ran
-Ran (kunoichi)
-Ran Sōgi
+Ran
+Ran 
 Ranka
 Ranke
 Ranmaru
 Rasa
 Rashii
-Reishi Kodon
+Reishi 
 Reki
-Remon Yoimura
+Remon 
 Renga
-Renga Kokubō
-Renge Momoashi
+Renga 
+Renge 
 Reto
 Riichi
-Riichi (ninja)
+Riichi 
 Rikumaru
-Rin Nohara
+Rin 
 Rinji
 Rock Lee
-Rokkaku Ryūdōin
+Rokkaku 
 Rokuro
 Rokusuke
 Ruiga
 Ruka
-Ryuka Tenrō
-Ryōgi
-Ryōkan
-Ryūgan
-Ryūki
-Ryūrimaru
-Ryūsa
-Ryūsui
-Ryūzetsu
-Rō
-Rōen
-Rōshi
-S
+Ryuka 
+Ryogi
+Ryokan
+Ryugan
+Ryuki
+Ryurimaru
+Ryusa
+Ryusui
+Ryuzetsu
+Ro
+Roen
+Roshi
 Sabiru
 Sabu
 Sabure
@@ -993,53 +911,54 @@ Sagi
 Sagiri
 Sai
 Saiken
-Saisu Kamano
+Saisu 
 Sajin
-Sajin (Genin)
-Sajō
+Sajin 
+Sajo
 Sakanami
-Sakon and Ukon
-Sakumo Hatake
-Sakura Haruno
+Sakon 
+ukon
+Sakumo 
+Sakura 
 Sakuya
 Samidare
-Samidare Amaashi
+Samidare 
 Samui
 San
-San’s Bird
+San
 Sana
-Sandayū Asama
-Sangorō
+Sandayu
+Sangoro
 Sansho
-Sanshō
-Santa Yamanaka
-Sanzui Unabara
-Sarada Uchiha
+Sansho
+Santa 
+Sanzui 
+Sarada 
 Sarai
 Sari
 Sasame
 Sasami
 Sasori
-Sasori’s Father
-Sasori’s Mother
-Sasuke Sarutobi
-Sasuke Uchiha
+Sasori
+Sasori
+Sasuke 
+Sasuke
 Satetsu
 Satori
-Satō
+Sato
 Saya
-Sayū Jōge
+Sayu
 Sazanami
-Sazanami Senka
+Sazanami 
 Sazanka
-Saō
-Scarlet Blaze
+Sao
+Scarlet 
 Seimei
-Seiren Funato
+Seiren 
 Seito
 Sekiei
-Sekiei (spectator)
-Sekiei’s Partner
+Sekiei 
+Sekiei
 Sekka
 Sekki
 Sen
@@ -1047,43 +966,43 @@ Senji
 Senta
 Sentoki
 Setsuna
-Setsuna Uchiha
+Setsuna 
 Shabadaba
 Shamo
 Shamon
 Shiba
-Shiba (Kusagakure)
-Shibai Ōtsutsuki
-Shibi Aburame
+Shiba 
+Shibai 
+Shibi 
 Shibire
-Shibito Azuma
+Shibito 
 Shibuki
 Shigezane
 Shigure
 Shiho
 Shiin
 Shijima
-Shikadai Nara
-Shikaku Nara
-Shikamaru Nara
+Shikadai 
+Shikaku 
+Shikamaru 
 Shikazo
-Shikuro Aburame
+Shikuro 
 Shima
 Shimeji
-Shimon Hijiri
+Shimon 
 Shin
-Shin Uchiha
+Shin 
 Shin’emon
 Shinayakana
 Shinbu
 Shinga
 Shinigami
 Shinki
-Shinko Inari
-Shinku Yūhi
-Shinnō
-Shino Aburame
-Shinobu Mibu
+Shinko 
+Shinku 
+Shinno
+Shino 
+Shinobu 
 Shinta
 Shio
 Shion
@@ -1092,42 +1011,33 @@ Shira
 Shirabe
 Shiranami
 Shiro
-Shiro (Land of Ancestors)
+Shiro 
 Shiromari
 Shiseru
 Shishio
-Shisui Uchiha
-Shisō
-Shitō Akimichi
+Shisui 
+Shiso
+Shito
 Shizuka
 Shizuku
-Shizuku (Taki)
-Shizuma Hoshigaki
+Shizuku
+Shizuma
 Shizune
 Shojoji
 Shukaku
 Shun
 Shura
-Shōseki
-Shū
-Shū (lord)
-Sky Ninja Executive
-Son Gokū
+Shoseki
+Shu
 Sora
-Sora (orphan)
-Soul Tao
-Sound Daimyō
-Spirit Beast
-Stone Carver
-Stone Carver’s Assistant
 Suguro
 Suien
-Suigetsu Hōzuki
+Suigetsu 
 Suika
-Suika Kannonji
+Suika
 Suiko
 Suiren
-Suiren (Kiri)
+Suiren 
 Suiu
 Sukeza
 Sukima
@@ -1135,43 +1045,41 @@ Sukui
 Sukune
 Sumaru
 Sumashi
-Sumire (citizen)
-Sumire Kakei
+Sumire 
+Sumire 
 Sumure
-Suna Assassin Captain
-Suna Reincarnated Shinobi
+Suna 
 Suname
 Susuki
-Susuki (Land of Demons)
-Suzaku (minister)
-Suzaku Nara
-Suzu Sōgi
+Susuki 
+Suzaku 
+Suzaku 
+Suzu 
 Suzume
 Suzumebachi
 Suzuran
-Sāra
-Sāra’s Daughter
-Sēramu
-Sōma
-Sōsetsu Kazahana
-Sōsha Amino
-Sōta
-Sōzu
-T
+Sara
+Sara
+Seramu
+Soma
+Sosetsu 
+Sosha 
+Sota
+Sozu
 Tadaichi
 Tagitsuhime
 Tagorihime
 Taiki
-Taiko Uchiha
-Taisa Amagiri
+Taiko 
+Taisa 
 Taiseki
-Taizō
+Taizo
 Taji
 Tajiki
-Tajima Uchiha
-Takajō Torikai
+Tajima
+Takajo
 Takamaru
-Takanami Senka
+Takanami
 Takishi
 Taku
 Tamae
@@ -1180,164 +1088,145 @@ Tamao
 Tami
 Tango
 Tanishi
-Tanuki Shigaraki
-Tanzō
+Tanuki
+Tanzo
 Taruho
 Tarui
 Taruto
-Tarō
+Taro
 Tasuki
 Tatewaki
 Tatsuji
-Tatsuma Aburame
+Tatsuma 
 Tatsumi
 Tatsunami
-Tayori Kuroyagi
+Tayori
 Tayuya
 Tazuna
-Tea Daimyō
-Team Goji Leader
 Teguse
-Tekka Uchiha
+Tekka 
 Tekkan
-Tekuno Kanden
+Tekuno 
 Temari
 Temui
 Temujin
-Ten-Tails
-Ten-Tails (Kara)
 Tenga
 Tenji
-Tenma Funato
-Tenma Izumo
-Tenma Kodon
+Tenma 
+Tenma 
+Tenma 
 Tenten
-Tentō Madoka
-Tenzen Daikoku
-Tenzen’s Bodyguard
-Tenzō (Iburi Clan)
+Tento
+Tenzen 
+Tenzen
+Tenzo
 Teo
 Tera
 Terai
 Teru
-Terubō
+Terubo
 Tessa
-Tessen Togeito
+Tessen 
 Tetsu
 Tetsuru
 Teuchi
-Teyaki Uchiha
+Teyaki 
 Tezuna
-Tezutsu Mikawa
-Third Hoshikage
-Third Kazekage
-Third Mizukage
-This Daimyō
-Three Giant Snakes
-Three Haimaru Brothers
-Three-Headed Guardian Beast
-Tiger-Masked Anbu Member
-Tobi (Zetsu)
+Tezutsu 
+Tobi
 Tobimaru
 Tobio
-Tobirama Senju
+Tobirama 
 Todoroki
 Tofu
 Tokara
 Toki
-Toki (Shinobazu)
+Toki 
 Tokiwa
-Tokuma Hyūga
+Tokuma 
 Tomari
 Tomaru
-Tomaru Minakura
+Tomaru 
 Tonbee
-Tonbo Tobitake
-Toneri Ōtsutsuki
-Tonika Village Head
+Tonbo
+Toneri 
+Tonika 
 Tonsuke
 Tonton
 Tora
-Tora (Anbu)
-Torifu Akimichi
+Tora 
+Torifu 
 Toroi
-Toroi (Genin)
-Torune Aburame
+Toroi 
+Torune 
 Tosaka
 Toshi
 Towa
-Tsubaki (anime)
-Tsubaki (game)
-Tsubaki (parent)
-Tsubaki Kurogane
+Tsubaki 
+Tsubaki 
+Tsubaki 
+Tsubaki 
 Tsubusa
-Tsubute Futaba
-Tsuchigumo Chief
+Tsubute 
+Tsuchigumo 
 Tsuchino
 Tsuchinoe
 Tsuchinoto
 Tsukado
-Tsukiko Kagetsu
+Tsukiko
 Tsukino
-Tsukino’s Father
+Tsukino
 Tsukiyo
 Tsukune
 Tsukushi
-Tsume Inuzuka
+Tsume 
 Tsunade
 Tsunami
-Tsuru Itoi
+Tsuru
 Tsurugi
-Tsurushi Hachiya
+Tsurushi
 Tsuyu
 Tsuzumi
-Tsuzumi (cultist)
-Tsuzumi Sarugaku
-Tsuzura Shitakiri
-Tōbei Kagetsu
-Tōfū
-Tōjūrō
-Tōka Senju
-Tōu
-Y
-Yurinojō
+Tsuzumi
+Tsuzumi
+Tsuzura
+Tobei
+Tofu
+Tojuro
+Toku
+Tou
+Yurinojo
 Yurito
 Yurui
-Yurui (anime)
-Yōji Aburame
-Yōrō
-Yūdachi
-Yūga
-Yūgao Uzuki
-Yūki Minazuki
-Yūkimaru
-Yūkimaru’s Mother
-Yūra
-Yūsuke
-Yūsuke’s Father
-Yūto
-Z
-Zabuza Momochi
+Yurui 
+Yoji
+Yoro
+Yudachi
+Yuga
+Yugao 
+Yuki 
+Yukimaru
+Yura
+Yusuke
+Yuto
+Zabuza 
 Zaji
-Zaji (gambler)
-Zaku Abumi
+Zaji 
+Zaku 
 Zangei
-Zansūru
+Zansuru
 Zenigoke
 Zenza
-Zero-Tails
 Zetsu
-Zō
-Zōri
-Zōsui
-Ō
-Ōga
-Ōkei
-Ōmitsu
-Ōnami
-Ōnoki
-Ōtora
-Ōtsutsuki Clan Patriarch
-Ōwashi
-Ū
-Ūhei
+Zo
+Zori
+Zosui
+oga
+okei
+omitsu
+onami
+onoki
+otora
+otsutsuki 
+owashi
+uhei
