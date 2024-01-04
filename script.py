@@ -13,6 +13,7 @@ bot_username = '@Naruto_X_Boruto_Bot'
 characters_file = 'naruto_characters.txt'
 
 jumble_command = "/jumble"
+jumble_prompt = "Type correct word to get reward.\nJumbled :"
 
 session = StringSession(session_string)
 client = TelegramClient(session, api_id, api_hash)
@@ -23,14 +24,14 @@ with open(characters_file, 'r') as file:
 
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(4)  # Send the command every 4 seconds
+        await asyncio.sleep(9)  # Send the command every 9 seconds
         await client.send_message(bot_username, jumble_command)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
 async def on_message(event):
-    if jumble_command in event.raw_text:
+    if jumble_prompt in event.raw_text:
         # Extracting the jumbled name from the bot's response
-        jumbled_name = event.raw_text.split(jumble_command)[1].strip()
+        jumbled_name = event.raw_text.split(jumble_prompt)[1].strip()
 
         # Rearrange the jumbled word
         rearranged_name = jumble_solver(jumbled_name)
