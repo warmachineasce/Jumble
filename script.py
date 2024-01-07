@@ -7,9 +7,9 @@ from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 import unidecode
 
-api_id = '21124978'
-api_hash = '63f41b60df295e52b2a967e5f9c02977'
-session_string = '1BVtsOMgBuzMHr2PoXkLqH1EAKb3Il_bNri_WlPVKEi49UALTfMVwiZIBnRCkrK8CEiOzd9n-MyRkHvJ_p0z6QILYAk9FuGR5MGd0aBoYqZAzw7B0zknrHOE-1gZRC6jxbw07zGJPcmya2CMsRE3Gtjy5Y6wGF0rwfx8_hPkunPbLH98pSV8pvz3ZmK7ivvj0J1P3dVS_Ly0EnjdSVcGD3GImJUTIZmNTUYk3u8xbsTR95to2h73NdFfh-QMLuFGm4UhAZzc0unCg3B_IuoqDHqrx6v32Qx8yclyCq0Dg_8l7xrprYMDwhRtp23dl7BQxby_xUGMkhvFWgcWLsWU-ECOFX9kQMXQ='
+api_id = 'fill'
+api_hash = 'fill'
+session_string = 'fill'
 bot_username = '@Naruto_X_Boruto_Bot'
 characters_file = 'nachar.txt'
 
@@ -39,7 +39,7 @@ def find_correct_name(rearranged_name):
 
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(2)  # Send the command every 2 seconds
+        await asyncio.sleep(2.5)  # Send the command every 2 seconds
         await client.send_message(bot_username, jumble_command)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
