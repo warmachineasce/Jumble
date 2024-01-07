@@ -11,7 +11,7 @@ api_id = 'fill'
 api_hash = 'fill'
 session_string = 'fill'
 bot_username = '@Naruto_X_Boruto_Bot'
-characters_file = 'nachar.txt'
+characters_file = '/content/nachar.txt'
 
 jumble_command = "/jumble"
 jumble_prompt = "Type correct word to get reward.\nJumbled :"
@@ -39,7 +39,7 @@ def find_correct_name(rearranged_name):
 
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(2.5)  # Send the command every 2 seconds
+        await asyncio.sleep(4)  # Send the command every 2 seconds
         await client.send_message(bot_username, jumble_command)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
@@ -54,6 +54,9 @@ async def on_message(event):
         # Finding the correct character name in the list
         correct_name = find_correct_name(rearranged_name)
 
+        # Introduce a 1-second delay before sending the correct name back to the bot
+        await asyncio.sleep(1)
+        
         # Sending the correct name back to the bot
         await client.send_message(bot_username, f"{correct_name}")
 
