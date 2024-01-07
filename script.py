@@ -11,7 +11,7 @@ api_id = 'fill'
 api_hash = 'fill'
 session_string = 'fill'
 bot_username = '@Naruto_X_Boruto_Bot'
-characters_file = '/content/nachar.txt'
+characters_file = 'nachar.txt'
 
 jumble_command = "/jumble"
 jumble_prompt = "Type correct word to get reward.\nJumbled :"
