@@ -39,8 +39,15 @@ def find_correct_name(rearranged_name):
 
 async def send_jumble_command():
     while True:
-        await asyncio.sleep(4)  # Send the command every 2 seconds
-        await client.send_message(bot_username, jumble_command)
+        try:
+            # Attempt to send the jumble command
+            await client.send_message(bot_username, jumble_command)
+        except Exception as e:
+            print(f"Error sending jumble command: {e}")
+            break  # Stop sending jumble commands on exception
+
+        # Introduce a 2.5-second delay before attempting to send the next command
+        await asyncio.sleep(2.5)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
 async def on_message(event):
@@ -51,12 +58,12 @@ async def on_message(event):
         # Rearrange the jumbled word
         rearranged_name = jumble_solver(jumbled_name)
 
+        # Introduce a 1-second delay before sending the correct name back to the bot
+        await asyncio.sleep(1)
+
         # Finding the correct character name in the list
         correct_name = find_correct_name(rearranged_name)
 
-        # Introduce a 1-second delay before sending the correct name back to the bot
-        await asyncio.sleep(1)
-        
         # Sending the correct name back to the bot
         await client.send_message(bot_username, f"{correct_name}")
 
