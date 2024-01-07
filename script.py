@@ -47,7 +47,7 @@ async def send_jumble_command():
             break  # Stop sending jumble commands on exception
 
         # Introduce a 2.5-second delay before attempting to send the next command
-        await asyncio.sleep(2.5)
+        await asyncio.sleep(4)
 
 @client.on(events.NewMessage(from_users=[bot_username]))
 async def on_message(event):
