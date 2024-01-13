@@ -46,5 +46,16 @@ async def main():
                 # Wait for 4 seconds before placing the next bet
                 await asyncio.sleep(4)
 
-# Run the bot in a separate thread
-client_thread = asyncio.new_event_loop().create_task(run_bot())
+try:
+    # Run the bot in the main thread
+    nest_asyncio.apply()
+    asyncio.run(run_bot())
+except KeyboardInterrupt:
+    # Handle keyboard interrupt gracefully
+    pass
+except Exception as e:
+    print(f"An error occurred: {e}")
+finally:
+    # Disconnect the client
+    client.disconnect()
+    
