@@ -30,32 +30,30 @@ async def main():
     # Extract and use the bounty information
     if response:
         bounty_message = response[0].raw_text
-        # Extract the current bounty amount
-        current_bounty = int(bounty_message.split(' ')[-1])
 
-        # Divide the bounty dynamically based on the current amount
-        divided_bounties = [current_bounty // (2 ** i) for i in range(4)]
+        # Extract the numeric value from the bounty message using regular expression
+        match = re.search(r'฿([\d,]+)', bounty_message)
+        if match:
+            current_bounty_str = match.group(1).replace(',', '')
+            current_bounty = int(current_bounty_str)
+            
+            # Divide the bounty dynamically based on the current amount
+            divided_bounties = [current_bounty // (2 ** i) for i in range(4)]
 
-        # Loop indefinitely and place /bet commands with a 4-second delay
-        while True:
-            for bet_amount in divided_bounties:
-                # Send the /bet command with a random h or t (heads or tails)
-                coin_toss_result = random.choice(['h', 't'])
-                await client.send_message(username, f"/bet {bet_amount} {coin_toss_result}")
+            # Loop indefinitely and place /bet commands with a 4-second delay
+            while True:
+                for bet_amount in divided_bounties:
+                    # Send the /bet command with a random h or t (heads or tails)
+                    coin_toss_result = random.choice(['h', 't'])
+                    await client.send_message(username, f"/bet {bet_amount} {coin_toss_result}")
 
-                # Wait for 4 seconds before placing the next bet
-                await asyncio.sleep(4)
+                    # Wait for 4 seconds before placing the next bet
+                    await asyncio.sleep(4)
+        else:
+            print("Failed to extract valid bounty information.")
+    else:
+        print("No response received.")
 
-try:
-    # Run the bot in the main thread
-    nest_asyncio.apply()
-    asyncio.run(run_bot())
-except KeyboardInterrupt:
-    # Handle keyboard interrupt gracefully
-    pass
-except Exception as e:
-    print(f"An error occurred: {e}")
-finally:
-    # Disconnect the client
-    client.disconnect()
-    
+# Run the bot in a separate thread
+client_thread = asyncio.new_event_loop().create_task(run_bot())
+
